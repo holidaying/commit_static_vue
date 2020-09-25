@@ -1,0 +1,1 @@
+# commit_static_vue
